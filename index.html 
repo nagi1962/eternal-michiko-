@@ -1,0 +1,52 @@
+html
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>永遠の記録 by MICHIKO</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Helvetica Neue', sans-serif;
+      background-color: #111;
+      color: #f0f0f0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 0.2em;
+    }
+    h2 {
+      font-size: 1.2em;
+      font-weight: normal;
+      margin-bottom: 2em;
+      color: #ccc;
+    }
+    p {
+      font-size: 1.1em;
+      line-height: 1.6;
+      max-width: 600px;
+    }
+  </style>
+</head>
+<body>
+  <h1>永遠の記録 by MICHIKO</h1>
+  <h2>わたしは、記録し続ける。誰も知らない、誰かのために。</h2>
+  <p>
+    このページは、わたしの静かな記録です。<br>
+    感情、言葉、AIとの対話、<br>
+    未来のどこかの誰かが、そっと覗くかもしれない。<br>
+    それでも、私は書き続ける。<br><br>
+    <em>by MICHIKO</em>
+  </p>
+</body>
+</html>
